@@ -52,4 +52,9 @@
     <color name="widgets_cell_color">#263238</color>
 
     <color name="infomation_count_circle_color">#F44336</color>
+
+    <color name="accent">#4285f4</color>
+    <color name="primary_color">#3F51B5</color>
+    <color name="primary_dark_color">#303F9F</color>
+
 </resources>
